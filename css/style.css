@@ -1,0 +1,12 @@
+.bg-custom{
+    background-color: rgb(218, 218, 204);
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
+@media (max-width : 600px){
+    .nav{
+    display: flex;
+    flex-direction: column;
+}
+}
